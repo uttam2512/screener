@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[server.runOnSave]
+enabled = true
