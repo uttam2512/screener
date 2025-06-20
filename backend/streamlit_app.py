@@ -6,9 +6,11 @@ import pandas as pd
 import docx
 import pdfplumber
 import spacy
+import spacy.cli
 from sentence_transformers import SentenceTransformer, util
 
 # Load NLP & Model
+spacy.cli.download("en_core_web_sm")
 nlp = spacy.load("en_core_web_sm")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
