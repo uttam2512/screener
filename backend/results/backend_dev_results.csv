@@ -1,0 +1,78 @@
+Resume Filename,Score,Matched Skills,Missing Skills,Approval
+backend_developer.docx,63.25,"databases, django, docker","- strong knowledge, api security
+- understanding, aws, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+cloud_engineer.docx,49.26,aws,"- strong knowledge, databases, api security
+- understanding, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+devops_engineer.docx,47.7,devops,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, a backend developer, rest apis",❌ Rejected
+frontend_developer.docx,43.38,frontend,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+android_developer.docx,34.59,,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+cybersecurity_analyst.docx,33.54,,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+ml_engineer.docx,33.51,,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+product_manager.docx,32.87,teams,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+data_analyst.docx,30.67,,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+business_analyst.docx,22.99,,"- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, frontend, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, frameworks, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
+uttam_resume.pdf,18.13,"frontend, frameworks","- strong knowledge, databases, api security
+- understanding, aws, django, knowledge, - write clean, scalable, and testable code
+
+requirements, python
+- experience, our dynamic engineering team, git, cloud platforms, unit testing, preferred skills, we, responsibilities, docker, azure
+- experience, teams, ci/cd pipelines, flask
+- familiarity, relational, database design, devops, a backend developer, rest apis",❌ Rejected
