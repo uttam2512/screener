@@ -1,6 +1,6 @@
 streamlit
 pandas
-docx
+python-docx
 pdfplumber
 spacy
 sentence-transformers
