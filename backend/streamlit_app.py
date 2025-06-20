@@ -10,8 +10,14 @@ import spacy.cli
 from sentence_transformers import SentenceTransformer, util
 
 # Load NLP & Model
-spacy.cli.download("en_core_web_sm")
-nlp = spacy.load("en_core_web_sm")
+
+# Download model if not available
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    spacy.cli.download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
+
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Streamlit Config
