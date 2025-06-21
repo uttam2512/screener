@@ -1,10 +1,7 @@
 streamlit
 pandas
-python-docx
 pdfplumber
+python-docx
+spacy==3.8.0
 sentence-transformers
 plotly
-# spaCy model
-spacy==3.7.2
-
-
